@@ -1,7 +1,7 @@
 # cs1.6-plugins-archive
 # Legacy CS 1.6 / AMXX Plugin Archive
 
-This repository is a public archive of old Counter-Strike 1.6 AMXX/Kreedz plugins collected and preserved over the years.
+This repository is a public archive of old Counter-Strike 1.6 AMXX/HNS/Kreedz plugins collected and preserved over the years.
 
 The archive contains:
 
