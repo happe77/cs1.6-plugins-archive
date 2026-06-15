@@ -12,7 +12,7 @@ The archive contains:
 * Personal edits and modifications
 * Collaborative work created together with friends and other developers
 
-Some plugins were originally created by Happe, while others include contributions, edits, ideas, or shared work from friends and members of the old CS 1.6/HNS/KZ community, including content and code shared through AlliedModders and AMXMODX.org over the years. Certain files may also contain legacy code originating from older public releases that circulated within the scene over time.
+Some plugins were originally created by me, while others include contributions, edits, ideas, or shared work from friends and members of the old CS 1.6/HNS/KZ community, including content and code shared through AlliedModders and AMXMODX.org over the years. Certain files may also contain code originating from older public releases that circulated within the scene over time.
 
 ## Purpose
 
@@ -21,7 +21,6 @@ This repository exists for:
 * Preservation of old CS 1.6 modding work
 * Historical/archive purposes
 * Educational reference
-* Showcasing legacy AMXX scripting projects
 
 A large amount of old CS 1.6 development work has slowly disappeared from the internet over time. This archive exists partly to preserve pieces of that era and make them accessible again for future developers, server owners, and enthusiasts.
 
@@ -53,6 +52,7 @@ No ownership is claimed over third-party community code, snippets, or publicly s
 * zacky
 * p3x
 * kraxN
+* RelaxMazter
 * and many more...
 
 Also a special thanks to Exolent for creating Advanced Bans and contributing to the AMXX and CS 1.6 community over the years:
